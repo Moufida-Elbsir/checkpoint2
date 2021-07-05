@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@300 & display=swap');
+nav {
+    display: inline;
+}
+* {
+	font-family: Roboto;
+}
+#title {
+    font-family: roboto;
+    color: navy;
+    text-align: center;
+    background-color: rgb(238, 218, 228);
+}
+h2 {color: brown;}
+h3 {color: royalblue;}
+#Contact > h2 {color: red;}
+footer {
+    text-align: center;
+    background-color: orchid;
+
+}
+img {
+    text-align: center;
+    align-items: center;
+}
+ p {
+    display: block;
+      width: 1200px;
+
+    }
+    #Travail {
+        display: block;
+        width: 1200px;       
+    }
+        .none {
+       list-style: none;
+        }
